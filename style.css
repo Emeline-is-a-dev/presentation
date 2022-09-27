@@ -1,0 +1,39 @@
+h2 {
+	color: #f25f4c;
+	background-color: ##eaddcf;
+	font-size: 20;
+	font-family: '';
+
+
+}
+h1 {
+	color: #e53170;
+	font-size: 30;
+	font-family: '';
+}
+div{
+	width: 900px;
+	border: 1px solid red;
+	padding:  16px;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 32px;
+	box-shadow: box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;;
+	border-radius: 8px;
+	height: 900px;
+	background-color: #ff8906;
+
+}
+
+.-btn-brown {
+	padding: 10px 16px;
+	text-decoration: none;
+	background-color: brown;
+	color: whitesmoke;
+	border-radius: 4px;
+	display: inline-block;
+}
+
+.btn-brown:hover {
+	background-color: red;
+}
